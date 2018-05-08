@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<apps>
+    <app>
+        <name>pc</name>
+        <host>localhost:8080</host>
+        <items>
+            <item>
+                <object_type>product</object_type>
+                <url>/pc/base/product/{id}</url>
+            </item>
+        </items>
+    </app>
+    <app>
+        <name>erp</name>
+        <host>localhost:8080</host>
+        <items>
+
+        </items>
+    </app>
+</apps>
